@@ -1,0 +1,23 @@
+
+
+
+{
+  "name": "@claudia74/claudia-test-package",
+  "version": "1.0.0",
+  "description": "mein erstes npm modul",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/arr-diff.git"
+  },
+  "scripts": {
+    "test": "claudia-test-dummy"
+  },
+  "keywords": [
+    "test",
+    "claudia"
+  ],
+  "author": "claudia.stegmaier@googlemail.com",
+  "license": "ISC"
+}
