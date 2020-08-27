@@ -11,7 +11,7 @@
  */
 
 function test(str) {
-	var dummy = 'claudia test string:' + str;
+	var dummy = 'claudia test string: ' + str;
 	return dummy;
 }
 
