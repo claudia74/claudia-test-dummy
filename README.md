@@ -3,6 +3,6 @@
 ## install
 
 ´´´
-npm install claudia-test
+npm install claudia-test-package
 
 ´´´
